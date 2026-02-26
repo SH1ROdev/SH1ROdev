@@ -1,7 +1,8 @@
 # 💫 About Me:
 My main github account has been baned...<br>Who is Sh1ro?<br>Backend developer + devops<br>Osint enjoyer<br>Black hat<br><br>
-
-
+My project(The Flying Dutchman) links:
+1. tg = t.me/korablperehod
+2. discord = https://discord.gg/zVveNGENS5
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shirov3_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@theflyingdutchman_dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sh1rodev) 
 
